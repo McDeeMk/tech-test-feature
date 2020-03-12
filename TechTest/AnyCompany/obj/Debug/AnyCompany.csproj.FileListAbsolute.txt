@@ -1,0 +1,6 @@
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
+C:\Users\Donald\Desktop\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.dll.config
